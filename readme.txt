@@ -1,0 +1,1 @@
+Console utility for converting integer numbers from decimal system (radix 10) to a system with a lower radix or backwards.
